@@ -1,4 +1,4 @@
-from poo import Atividade
+from info import Atividade
 
 objeto = Atividade()
 
