@@ -1,9 +1,7 @@
-from info import Atividade
+from poo import Casa
 
-objeto = Atividade()
+dia = Casa()
 
-objeto.informar("Italo", "21")
+dia.limpar("italo", "cozinha", "detergente")
 
-print("=-="*30)
-
-objeto.estudar("programação orientada a objeto")
+dia.enxugar()
